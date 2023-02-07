@@ -3,17 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArraysHashing", "ArraysHashing", "{477808D0-9F8C-428A-86D7-2A75A2FE2B6E}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainsDuplicate", "ArraysHashing\ContainsDuplicate\ContainsDuplicate.csproj", "{3C0DB44D-6D07-4E51-9B5F-09689D0E8463}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidAnagram", "ArraysHashing\ConsoleApp1\ValidAnagram.csproj", "{C1536CF1-DA6A-4B72-82A2-EFDDABF98C48}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "ArraysHashing\TwoSum\TwoSum.csproj", "{C2B7854F-BCEB-42B0-8668-2D518ECB5A0C}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupAnagrams", "ArraysHashing\GroupAnagrams\GroupAnagrams.csproj", "{EEDBFADE-5EA0-44F0-89F8-D39D067FCC53}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blind75", "Blind75\Blind75.csproj", "{3C6377DA-153F-4E11-8DEB-0364FFA7D71B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blind75", "Blind75\Blind75.csproj", "{3C6377DA-153F-4E11-8DEB-0364FFA7D71B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,22 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3C0DB44D-6D07-4E51-9B5F-09689D0E8463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3C0DB44D-6D07-4E51-9B5F-09689D0E8463}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3C0DB44D-6D07-4E51-9B5F-09689D0E8463}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3C0DB44D-6D07-4E51-9B5F-09689D0E8463}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C1536CF1-DA6A-4B72-82A2-EFDDABF98C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C1536CF1-DA6A-4B72-82A2-EFDDABF98C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C1536CF1-DA6A-4B72-82A2-EFDDABF98C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C1536CF1-DA6A-4B72-82A2-EFDDABF98C48}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C2B7854F-BCEB-42B0-8668-2D518ECB5A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C2B7854F-BCEB-42B0-8668-2D518ECB5A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C2B7854F-BCEB-42B0-8668-2D518ECB5A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C2B7854F-BCEB-42B0-8668-2D518ECB5A0C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EEDBFADE-5EA0-44F0-89F8-D39D067FCC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EEDBFADE-5EA0-44F0-89F8-D39D067FCC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EEDBFADE-5EA0-44F0-89F8-D39D067FCC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EEDBFADE-5EA0-44F0-89F8-D39D067FCC53}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3C6377DA-153F-4E11-8DEB-0364FFA7D71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3C6377DA-153F-4E11-8DEB-0364FFA7D71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C6377DA-153F-4E11-8DEB-0364FFA7D71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -44,12 +18,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{3C0DB44D-6D07-4E51-9B5F-09689D0E8463} = {477808D0-9F8C-428A-86D7-2A75A2FE2B6E}
-		{C1536CF1-DA6A-4B72-82A2-EFDDABF98C48} = {477808D0-9F8C-428A-86D7-2A75A2FE2B6E}
-		{C2B7854F-BCEB-42B0-8668-2D518ECB5A0C} = {477808D0-9F8C-428A-86D7-2A75A2FE2B6E}
-		{EEDBFADE-5EA0-44F0-89F8-D39D067FCC53} = {477808D0-9F8C-428A-86D7-2A75A2FE2B6E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C6BBCB91-9602-4073-9691-87A7E119D911}
