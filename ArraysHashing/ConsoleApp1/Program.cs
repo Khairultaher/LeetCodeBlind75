@@ -7,7 +7,7 @@
 Console.WriteLine(IsAnagram("anagram", "nagaram"));
 bool IsAnagram(string s, string t)
 {
-       //easy approach
+        //easy approach
         //string s1 = new string (s.OrderBy(c => c).ToArray());
         //string s2 = new string (t.OrderBy(c => c).ToArray());
 

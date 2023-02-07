@@ -9,7 +9,7 @@
 
 using System.Threading.Tasks.Dataflow;
 
-Console.WriteLine(string.Join(",", TwoSum(new int[] { 2, 7, 11, 15 }, 9)));
+Console.WriteLine(string.Join(",", TwoSum(new int[] { 3, 2, 4 }, 6)));
 
 int[] TwoSum(int[] ints, int v)
 {
